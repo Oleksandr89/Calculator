@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="actionClear">Clear</string>
+    <string name="firstNumberEditText">Number 1</string>
+    <string name="secondNumberEditText">Number 2</string>
+    <string name="plusRadioButton">Plus</string>
+    <string name="minusRadioButton">Minus</string>
+    <string name="divideRadioButton">Divide</string>
+    <string name="multiplyRadioButton">Multiple</string>
+    <string name="floatValues">Use float numbers</string>
+    <string name="signedValues">Use signed numbers</string>
+    <string name="resultTextView">Result</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="alertTitle">System message</string>
+    <string name="alertMessage">Do you want Clear all number?</string>
+    <string name="alertButtonOk">OK</string>
+    <string name="alertButtonCancel">Cancel</string>
+    <string name="toastClickButtonOk">All number Clear</string>
+    <string name="toastClickButtonCancel">You clicked Cancel</string>
+    <string name="errorMessageEmptyFirstLine">You did not enter a number</string>
+    <string name="errorMessageEmptySecondLine">You did not enter a number</string>
+    <string name="divisionByZero">Cannot be divided by zero</string>
+
+</resources>

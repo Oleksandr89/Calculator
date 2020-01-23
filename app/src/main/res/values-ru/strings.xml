@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="plusRadioButton">Плюс</string>
+    <string name="minusRadioButton">Минус</string>
+    <string name="divideRadioButton">Делить</string>
+    <string name="multiplyRadioButton">Умножить</string>
+    <string name="calculateButton">Вычислить</string>
+    <string name="firstNumberEditText">Число 1</string>
+    <string name="floatValues">Использовать дробные числа</string>
+    <string name="secondNumberEditText">Число 2</string>
+    <string name="signedValues">Использовать знаковые числа</string>
+    <string name="resultTextView">Результат</string>
+    <string name="actionClear">Очистить</string>
+    <string name="alertButtonCancel">Отмена</string>
+    <string name="alertButtonOk">Ок</string>
+    <string name="alertMessage">Вы хотите очистить все номера?</string>
+    <string name="alertTitle">Системное сообщение</string>
+    <string name="errorMessageEmptyFirstLine">Вы не ввели номер</string>
+    <string name="toastClickButtonCancel">Вы нажали Отмена</string>
+    <string name="toastClickButtonOk">Все номера очищени</string>
+    <string name="divisionByZero">Делить на ноль нельзя</string>
+    <string name="errorMessageEmptySecondLine">Вы не ввели номер</string>
+</resources>
